@@ -1,0 +1,132 @@
+/* styles.css */
+
+*{
+  font-family: 'Times New Roman', Times, serif;
+  font-weight: bold;
+}
+
+/* Couleurs personnalisées */
+.bg-orange {
+    background-color: #f39c12; /* Orange */
+  }
+  
+  .text-orange {
+    color: #f39c12; /* Orange */
+  }
+  
+  .bg-bleu {
+    background-color: #3498db; /* Bleu */
+  }
+  
+  .text-bleu {
+    color: #3498db; /* Bleu */
+  }
+  
+  /* Styles spécifiques au slider */
+  #slider {
+    margin-top: 60px;
+  }
+
+  .navbar {
+    background-color: #171e79;
+    height: 80px;
+    margin: 20px;
+    padding: 0.5rem;
+    border-radius: 16px;
+}
+  
+  .carousel-item img {
+    height: 400px;
+    object-fit: cover;
+  }
+  
+  .carousel-control-prev-icon,
+  .carousel-control-next-icon {
+    background-color: #f39c12; /* Orange pour les flèches */
+  }
+  
+  /* Styles spécifiques au footer */
+  footer {
+    background-color: #171e79;
+    height: 80px;
+    margin: 5px;
+    padding: 0.5rem;
+    border-radius: 16px;
+  }
+  
+  /* Autres styles personnalisés */
+  h2 {
+    color: #3498db; /* Bleu pour les titres */
+  }
+  
+  .btn-primary {
+    background-color: #f39c12;
+    border-color: #f39c12;
+  }
+  
+  .btn-outline-primary {
+    color: #f39c12;
+    border-color: #f39c12;
+  }
+  
+  .btn-outline-primary:hover {
+    background-color: #f39c12;
+    color: #fff;
+  }
+
+  /* Formulaire de creation de commte */
+
+ 
+/* styles.css */
+
+/* Couleurs personnalisées */
+.bg-orange {
+    background-color: #f39c12; /* Orange */
+  }
+  
+  .text-orange {
+    color: #f39c12; /* Orange */
+  }
+  
+  .bg-bleu {
+    background-color: #3498db; /* Bleu */
+  }
+  
+  .text-bleu {
+    color: #3498db; /* Bleu */
+  }
+  
+  /* Styles spécifiques */
+  h2 {
+    color: #3498db; /* Bleu pour les titres */
+  }
+  
+  .btn-primary {
+    background-color: #f39c12;
+    border-color: #f39c12;
+  }
+  
+  .btn-outline-primary {
+    color: #f39c12;
+    border-color: #f39c12;
+  }
+  
+  .btn-outline-primary:hover {
+    background-color: #f39c12;
+    color: #fff;
+  }
+  
+  /* Styles pour l'image et le formulaire */
+  .img-fluid {
+    max-height: 600px;
+    object-fit: cover;
+  }
+  
+  .row{
+    background-color: aliceblue;
+    padding: 10px;
+    border-radius: 16px;
+  }
+  img{
+    border-radius: 16px;
+  }
